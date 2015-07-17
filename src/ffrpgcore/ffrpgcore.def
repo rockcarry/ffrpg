@@ -1,0 +1,5 @@
+EXPORTS
+
+map_init
+map_free
+map_save
